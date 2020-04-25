@@ -1,2 +1,2 @@
-# react-redux
-React with redux
+# react-redux-webpack
+React with redux using webpack
